@@ -1,0 +1,12 @@
+C:\Users\aloneWarriorLaptop\Desktop\dotnet projects\ApiProject\ApiProject.Domain\bin\Debug\net5.0\ApiProject.Domain.deps.json
+C:\Users\aloneWarriorLaptop\Desktop\dotnet projects\ApiProject\ApiProject.Domain\bin\Debug\net5.0\ApiProject.Domain.dll
+C:\Users\aloneWarriorLaptop\Desktop\dotnet projects\ApiProject\ApiProject.Domain\bin\Debug\net5.0\ref\ApiProject.Domain.dll
+C:\Users\aloneWarriorLaptop\Desktop\dotnet projects\ApiProject\ApiProject.Domain\bin\Debug\net5.0\ApiProject.Domain.pdb
+C:\Users\aloneWarriorLaptop\Desktop\dotnet projects\ApiProject\ApiProject.Domain\obj\Debug\net5.0\ApiProject.Domain.csproj.AssemblyReference.cache
+C:\Users\aloneWarriorLaptop\Desktop\dotnet projects\ApiProject\ApiProject.Domain\obj\Debug\net5.0\ApiProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aloneWarriorLaptop\Desktop\dotnet projects\ApiProject\ApiProject.Domain\obj\Debug\net5.0\ApiProject.Domain.AssemblyInfoInputs.cache
+C:\Users\aloneWarriorLaptop\Desktop\dotnet projects\ApiProject\ApiProject.Domain\obj\Debug\net5.0\ApiProject.Domain.AssemblyInfo.cs
+C:\Users\aloneWarriorLaptop\Desktop\dotnet projects\ApiProject\ApiProject.Domain\obj\Debug\net5.0\ApiProject.Domain.csproj.CoreCompileInputs.cache
+C:\Users\aloneWarriorLaptop\Desktop\dotnet projects\ApiProject\ApiProject.Domain\obj\Debug\net5.0\ApiProject.Domain.dll
+C:\Users\aloneWarriorLaptop\Desktop\dotnet projects\ApiProject\ApiProject.Domain\obj\Debug\net5.0\ref\ApiProject.Domain.dll
+C:\Users\aloneWarriorLaptop\Desktop\dotnet projects\ApiProject\ApiProject.Domain\obj\Debug\net5.0\ApiProject.Domain.pdb

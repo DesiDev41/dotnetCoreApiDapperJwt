@@ -1,0 +1,15 @@
+C:\Users\aloneWarriorLaptop\Desktop\dotnet projects\ApiProject\ApiProject.DataAccess\bin\Debug\net5.0\ApiProject.DataAccess.deps.json
+C:\Users\aloneWarriorLaptop\Desktop\dotnet projects\ApiProject\ApiProject.DataAccess\bin\Debug\net5.0\ApiProject.DataAccess.dll
+C:\Users\aloneWarriorLaptop\Desktop\dotnet projects\ApiProject\ApiProject.DataAccess\bin\Debug\net5.0\ref\ApiProject.DataAccess.dll
+C:\Users\aloneWarriorLaptop\Desktop\dotnet projects\ApiProject\ApiProject.DataAccess\bin\Debug\net5.0\ApiProject.DataAccess.pdb
+C:\Users\aloneWarriorLaptop\Desktop\dotnet projects\ApiProject\ApiProject.DataAccess\bin\Debug\net5.0\ApiProject.Domain.dll
+C:\Users\aloneWarriorLaptop\Desktop\dotnet projects\ApiProject\ApiProject.DataAccess\bin\Debug\net5.0\ApiProject.Domain.pdb
+C:\Users\aloneWarriorLaptop\Desktop\dotnet projects\ApiProject\ApiProject.DataAccess\obj\Debug\net5.0\ApiProject.DataAccess.csproj.AssemblyReference.cache
+C:\Users\aloneWarriorLaptop\Desktop\dotnet projects\ApiProject\ApiProject.DataAccess\obj\Debug\net5.0\ApiProject.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aloneWarriorLaptop\Desktop\dotnet projects\ApiProject\ApiProject.DataAccess\obj\Debug\net5.0\ApiProject.DataAccess.AssemblyInfoInputs.cache
+C:\Users\aloneWarriorLaptop\Desktop\dotnet projects\ApiProject\ApiProject.DataAccess\obj\Debug\net5.0\ApiProject.DataAccess.AssemblyInfo.cs
+C:\Users\aloneWarriorLaptop\Desktop\dotnet projects\ApiProject\ApiProject.DataAccess\obj\Debug\net5.0\ApiProject.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\aloneWarriorLaptop\Desktop\dotnet projects\ApiProject\ApiProject.DataAccess\obj\Debug\net5.0\ApiProject.DataAccess.dll
+C:\Users\aloneWarriorLaptop\Desktop\dotnet projects\ApiProject\ApiProject.DataAccess\obj\Debug\net5.0\ref\ApiProject.DataAccess.dll
+C:\Users\aloneWarriorLaptop\Desktop\dotnet projects\ApiProject\ApiProject.DataAccess\obj\Debug\net5.0\ApiProject.DataAccess.pdb
+C:\Users\aloneWarriorLaptop\Desktop\dotnet projects\ApiProject\ApiProject.DataAccess\obj\Debug\net5.0\ApiProject.DataAccess.csproj.CopyComplete

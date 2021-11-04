@@ -1,0 +1,17 @@
+C:\Users\aloneWarriorLaptop\Desktop\dotnet projects\ApiProject\ApiProject.Services\bin\Debug\net5.0\ApiProject.Services.deps.json
+C:\Users\aloneWarriorLaptop\Desktop\dotnet projects\ApiProject\ApiProject.Services\bin\Debug\net5.0\ApiProject.Services.dll
+C:\Users\aloneWarriorLaptop\Desktop\dotnet projects\ApiProject\ApiProject.Services\bin\Debug\net5.0\ref\ApiProject.Services.dll
+C:\Users\aloneWarriorLaptop\Desktop\dotnet projects\ApiProject\ApiProject.Services\bin\Debug\net5.0\ApiProject.Services.pdb
+C:\Users\aloneWarriorLaptop\Desktop\dotnet projects\ApiProject\ApiProject.Services\bin\Debug\net5.0\ApiProject.DataAccess.dll
+C:\Users\aloneWarriorLaptop\Desktop\dotnet projects\ApiProject\ApiProject.Services\bin\Debug\net5.0\ApiProject.Domain.dll
+C:\Users\aloneWarriorLaptop\Desktop\dotnet projects\ApiProject\ApiProject.Services\bin\Debug\net5.0\ApiProject.Domain.pdb
+C:\Users\aloneWarriorLaptop\Desktop\dotnet projects\ApiProject\ApiProject.Services\bin\Debug\net5.0\ApiProject.DataAccess.pdb
+C:\Users\aloneWarriorLaptop\Desktop\dotnet projects\ApiProject\ApiProject.Services\obj\Debug\net5.0\ApiProject.Services.csproj.AssemblyReference.cache
+C:\Users\aloneWarriorLaptop\Desktop\dotnet projects\ApiProject\ApiProject.Services\obj\Debug\net5.0\ApiProject.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aloneWarriorLaptop\Desktop\dotnet projects\ApiProject\ApiProject.Services\obj\Debug\net5.0\ApiProject.Services.AssemblyInfoInputs.cache
+C:\Users\aloneWarriorLaptop\Desktop\dotnet projects\ApiProject\ApiProject.Services\obj\Debug\net5.0\ApiProject.Services.AssemblyInfo.cs
+C:\Users\aloneWarriorLaptop\Desktop\dotnet projects\ApiProject\ApiProject.Services\obj\Debug\net5.0\ApiProject.Services.csproj.CoreCompileInputs.cache
+C:\Users\aloneWarriorLaptop\Desktop\dotnet projects\ApiProject\ApiProject.Services\obj\Debug\net5.0\ApiProject.Services.dll
+C:\Users\aloneWarriorLaptop\Desktop\dotnet projects\ApiProject\ApiProject.Services\obj\Debug\net5.0\ref\ApiProject.Services.dll
+C:\Users\aloneWarriorLaptop\Desktop\dotnet projects\ApiProject\ApiProject.Services\obj\Debug\net5.0\ApiProject.Services.pdb
+C:\Users\aloneWarriorLaptop\Desktop\dotnet projects\ApiProject\ApiProject.Services\obj\Debug\net5.0\ApiProject.Services.csproj.CopyComplete
